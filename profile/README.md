@@ -28,7 +28,7 @@ If you have any questions or want to chat with us, feel free to join our discord
 
 * [Panel](https://github.com/Moonlight-Panel/Moonlight) - The code base for the panel itself
 * [Daemon](https://github.com/Moonlight-Panel/MoonlightDaemon) - The moonlight daemon for nodes
-* [Installer](https://github.com/Moonlight-Panel/MoonlightDaemon) - A easy installer for all moonlight components (panel, daemon and wings)
+* [Installer](https://github.com/Moonlight-Panel/Installer) - A easy installer for all moonlight components (panel, daemon and wings)
 * [Images](https://github.com/Moonlight-Panel/Images) - All images created by the moonlight panel team to start with hosting gameservers and more
 * [Plugins](https://github.com/Moonlight-Panel/Moonlight.Plugins) - Plugins developed by the moonlight panel team
 * [Pterodactyl Migrator](https://github.com/Moonlight-Panel/PterodactylMigrator) - Usefull for migrating from pterodactyl to moonlight
